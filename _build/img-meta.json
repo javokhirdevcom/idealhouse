@@ -1,0 +1,234 @@
+{
+ "aanbouw-schuifpui-rotterdam": {
+  "w": 1280,
+  "h": 714,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "serre-aanbouw-staal-glas": {
+  "w": 1280,
+  "h": 831,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "woonkeuken-lichtstraat-uitbouw": {
+  "w": 1280,
+  "h": 853,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "tuinkamer-glazen-schuifwanden": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   480,
+   800,
+   1080
+  ]
+ },
+ "aanbouw-glazen-pui-tuinzijde": {
+  "w": 640,
+  "h": 480,
+  "widths": [
+   480,
+   640
+  ]
+ },
+ "uitbouw-baksteen-stalen-deuren": {
+  "w": 1280,
+  "h": 828,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "aanbouw-houten-gevelbekleding": {
+  "w": 1280,
+  "h": 963,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "aanbouw-antraciet-gevelbekleding": {
+  "w": 720,
+  "h": 565,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "uitbouw-openslaande-tuindeuren": {
+  "w": 1280,
+  "h": 853,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "badkamer-inloopdouche-led-spiegel": {
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   480,
+   800,
+   960
+  ]
+ },
+ "badkamer-wastafelmeubel-ovale-spiegel": {
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   480,
+   800,
+   960
+  ]
+ },
+ "badkamer-dubbele-wastafel-nissen": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "toilet-groene-staaftegels": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "toilet-hangend-led-nis": {
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   480,
+   800,
+   960
+  ]
+ },
+ "dakkapel-antraciet": {
+  "w": 640,
+  "h": 430,
+  "widths": [
+   480,
+   640
+  ]
+ },
+ "dakkapel-nokverhoging": {
+  "w": 600,
+  "h": 400,
+  "widths": [
+   480,
+   600
+  ]
+ },
+ "dakopbouw-gevelbekleding": {
+  "w": 690,
+  "h": 388,
+  "widths": [
+   480,
+   690
+  ]
+ },
+ "plat-dak-lichtkoepel-uitbouw": {
+  "w": 1280,
+  "h": 959,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "gevel-dakopbouw-metselwerk": {
+  "w": 600,
+  "h": 400,
+  "widths": [
+   480,
+   600
+  ]
+ },
+ "strak-stucwerk-lichtstraat": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   800,
+   1200
+  ]
+ },
+ "uitbouw-metselwerk-in-uitvoering": {
+  "w": 630,
+  "h": 450,
+  "widths": [
+   480,
+   630
+  ]
+ },
+ "uitbouw-kozijnen-geplaatst": {
+  "w": 600,
+  "h": 338,
+  "widths": [
+   480,
+   600
+  ]
+ },
+ "fundering-wapening-aanbouw": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "ruwbouw-houten-dakbalken": {
+  "w": 1024,
+  "h": 770,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "aanbouw-ruwbouw-zonnepanelen": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   800,
+   1200
+  ]
+ },
+ "aanbouw-dakramen-in-uitvoering": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   800,
+   1200
+  ]
+ },
+ "zolder-regelwerk-indeling": {
+  "w": 600,
+  "h": 338,
+  "widths": [
+   480,
+   600
+  ]
+ }
+}

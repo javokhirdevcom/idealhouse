@@ -1,0 +1,272 @@
+// English content. Items line up one-to-one with the Dutch lists in data.js.
+
+const SERVICES = [
+  {
+    slug: 'bathroom-renovation',
+    name: 'Bathroom & toilet renovation',
+    short: 'bathroom renovation',
+    card: 'From design to the final bead of sealant: a complete bathroom, delivered ready to use.',
+    title: 'Bathroom renovation in Rotterdam | Ideal House',
+    desc: 'Bathroom or toilet renovation in Rotterdam? Ideal House handles demolition, plumbing, electrics, tiling and fitting. One point of contact, fixed price up front. Free quote.',
+    h1: 'Bathroom renovation in Rotterdam, delivered ready to use',
+    intro: 'Renovating a bathroom involves almost every trade: demolition, drainage, water supply, electrics, tiling, plastering and fitting. Ideal House carries out every one of those steps itself, in the right order and on a single schedule. You never have to coordinate a plumber, tiler and electrician yourself.',
+    includes: [
+      'Complete demolition and removal of the old bathroom',
+      'New water supply, drainage and waste pipes to current standards',
+      'Electrics, lighting, mirror heating and sockets',
+      'Wall and floor tiles, including walk-in shower and shower drain',
+      'Waterproof membrane and sealing tape under the tiling',
+      'Fitting of sanitary ware, vanity, taps, radiator and glass screen',
+    ],
+    steps: [
+      ['Site survey', 'We measure the room, discuss your wishes and assess the existing pipework.'],
+      ['Design and quote', 'You receive a layout and an itemised quote with a clear price per item.'],
+      ['Execution', 'Demolition, installation, tiling and fitting. Usually within 10 to 15 working days.'],
+      ['Handover', 'We inspect the bathroom together, clear everything away and leave it spotless.'],
+    ],
+    about: [
+      'You can tell a good bathroom by its details: a shower floor that falls precisely to the drain, tiles in perfect alignment and clean sealant lines. But the most important work is hidden behind the tiles. That is why we pay close attention to waterproofing, pipework and falls, so your bathroom stays free of leaks and damp for years.',
+      'Whether you choose a walk-in shower with glass screen, a bathtub, a wall-hung toilet or a vanity unit with illuminated mirror, we help you find a layout that works in everyday use. Even in small Rotterdam bathrooms and under sloping attic roofs, we get the most out of the space.',
+    ],
+    faqs: [
+      ['How much does a bathroom renovation cost?', 'That depends on the size, whether pipes need to be moved and which tiles and sanitary ware you choose. After the site survey you receive an itemised quote with a fixed price per item, so you know exactly where you stand.'],
+      ['How long will I be without a bathroom?', 'A complete bathroom takes 10 to 15 working days on average. The quote states a concrete lead time, so you can arrange a temporary solution in advance if needed.'],
+      ['Can you renovate just the toilet?', 'Yes. We also carry out toilet renovations as a separate job, including concealed cistern, tiling, hand basin and lighting. As it is a smaller project, it is finished sooner.'],
+    ],
+  },
+  {
+    slug: 'extensions',
+    name: 'Extensions',
+    short: 'extension',
+    card: 'More space without moving house, from foundations to roofing and finishing.',
+    title: 'House extension builder in Rotterdam | Ideal House',
+    desc: 'A rear or side extension in Rotterdam? Ideal House handles foundations, brickwork, steel, frames, roofing and the complete fit-out. Advice on permits. Free quote.',
+    h1: 'Extensions in Rotterdam: more space without moving',
+    intro: 'A rear extension or a dormer often gives you more than moving house would. Ideal House handles the complete shell and fit-out: foundations, brickwork, steel structure, frames, roofing and the entire interior finish.',
+    includes: [
+      'Foundations and floor, including insulation',
+      'Brickwork, lintels and steel structure',
+      'Frames, sliding doors and roof windows',
+      'Flat roofing and watertight connections',
+      'Insulation, walls, ceilings and plastering',
+      'Advice on permit-free building or the planning permit',
+    ],
+    steps: [
+      ['Feasibility', 'We look at the structure, the boundary and whether your plan can be built without a permit.'],
+      ['Drawings and quote', 'Where needed we bring in a structural engineer for the calculations.'],
+      ['Shell', 'Foundations, brickwork, steel and roof. The shell is made watertight.'],
+      ['Fit-out', 'Insulation, walls, electrics, plastering and floor finishing.'],
+    ],
+    about: [
+      'An extension turns a cramped living room into a spacious, light-filled kitchen-diner. Think of an extension with large sliding doors to the garden, a roof light that brings daylight deep into the house, or a garden room with steel frames. Because we build both the shell and the fit-out ourselves, everything fits together seamlessly.',
+      'Many rear extensions in the Netherlands are permit-free, but that depends on the size and your plot. We check this during the site survey. If a permit is required, we help with the drawings and the application. Most of the work happens outside; we only break through to the existing house at the end, keeping disruption to a minimum.',
+    ],
+    faqs: [
+      ['Do I need a permit for an extension?', 'That depends on the size and position on the plot. Many rear extensions are permit-free. We check this during the survey and, if a planning permit is needed, we help you with the application.'],
+      ['Can I stay at home during construction?', 'In most cases, yes. The extension is largely built from the outside. Only once the shell is watertight do we break through to the house. We put up dust screens and tidy up every day.'],
+      ['Who does the structural calculations?', 'Where needed we bring in a structural engineer to calculate foundations and steel. Those costs are included in the quote, so you don\'t have to find anyone yourself.'],
+    ],
+  },
+  {
+    slug: 'painting',
+    name: 'Interior & exterior painting',
+    short: 'painting job',
+    card: 'Smooth interior paintwork and durable exterior maintenance painting.',
+    title: 'Painter in Rotterdam | Interior & exterior | Ideal House',
+    desc: 'Painting in Rotterdam: walls and ceilings, doors and window frames, exterior painting with wood rot repair. Careful preparation, left clean and tidy.',
+    h1: 'Interior & exterior painting in Rotterdam',
+    intro: 'Good paintwork starts with preparation. We sand, fill and prime carefully so the topcoat adheres and stays beautiful for years. Indoors we work low-dust and fully cover your floors and furniture.',
+    includes: [
+      'Walls and ceilings, sprayed or rolled',
+      'Painting and lacquering of doors, frames and stairs',
+      'Exterior painting including wood rot repair',
+      'Wallpapering and glass-fibre wall covering',
+      'Plaster and skim coats as a base',
+      'Colour advice and samples in advance',
+    ],
+    steps: [
+      ['Inspection', 'We assess the surface and check for wood rot or flaking paint.'],
+      ['Preparation', 'Masking, sanding, filling and priming. The basis of a flawless finish.'],
+      ['Finishing', 'Two full coats in the colour of your choice.'],
+      ['Clean-up', 'We remove all masking materials and leave the room clean.'],
+    ],
+    about: [
+      'Indoors, smooth paintwork gives a calm, fresh look. After a renovation we finish walls and ceilings ready to live in, so you don\'t need to find a separate painter. Doors, frames and stairs get a hard-wearing lacquer that can take a knock.',
+      'Outdoors, good paintwork protects your window frames, fascias and cladding from the weather. We find and professionally repair wood rot, then build up a paint system that lasts. That prevents costly repairs later on.',
+    ],
+    faqs: [
+      ['When is the best time for exterior painting?', 'We paint exteriors in dry weather at temperatures above 7 °C. In practice that means from spring to early autumn. Interior painting can be done all year round.'],
+      ['How often does exterior paintwork need redoing?', 'On average every six to eight years, depending on the exposure of the façade and the paint system. A touch-up in between greatly extends its life.'],
+      ['Can you help me choose a colour?', 'Yes. We give colour advice and, on request, apply sample patches so you can judge the colour in your own light before we start.'],
+    ],
+  },
+  {
+    slug: 'tiling-and-masonry',
+    name: 'Tiling & masonry',
+    short: 'tiling or masonry',
+    card: 'Perfectly aligned tiling and expert brickwork, down to the last joint.',
+    title: 'Tiler & bricklayer in Rotterdam | Ideal House',
+    desc: 'Tiler or bricklayer in Rotterdam? Large-format tiles, marble look, shower drains with correct falls, brickwork and façade repair. Aligned down to the last joint.',
+    h1: 'Tiling & masonry in Rotterdam, down to the last joint',
+    intro: 'Tiling is precision work: the substrate must be flat, the pattern must work out and the fall to the drain must be right. We use levelling systems and lay large-format and marble-look tiles perfectly in line.',
+    includes: [
+      'Large-format wall and floor tiles',
+      'Marble look, natural stone, ceramic and herringbone',
+      'Levelling and waterproofing the substrate',
+      'Shower drains and falls made to measure',
+      'Brickwork, pointing and façade repair',
+      'Chimneys, garden walls and expansion joints',
+    ],
+    steps: [
+      ['Substrate', 'Levelling, flattening and waterproofing where needed.'],
+      ['Setting out', 'We choose the starting point so cut edges fall where they are least visible.'],
+      ['Tiling', 'Laid with levelling clips for a flat result without lippage.'],
+      ['Grouting and sealing', 'Grout in the colour of your choice and sanitary sealant in every corner.'],
+    ],
+    about: [
+      'With tiling, every millimetre shows. That is why we set out the pattern in advance, so cut edges land where they are least visible and joints run neatly from wall to floor. With levelling clips, even tiles of 60×120 cm or larger lie perfectly flat.',
+      'Our masonry ranges from a complete new extension to repairing cracks and repointing an old Rotterdam façade. We source bricks and mortar that match the existing work, so the repair blends in.',
+    ],
+    faqs: [
+      ['Can you lay large-format tiles?', 'Yes. We lay large-format tiles with a levelling system so they lie flat without height differences. A well-levelled substrate is essential; we include it in the quote.'],
+      ['Can I choose the tiles myself?', 'Of course. Many clients choose their own tiles at a showroom. We are happy to advise on size, joint width and quantity, or we can supply the complete package.'],
+      ['Do you also repair façade pointing?', 'Yes. We rake out weathered joints, repair damaged brickwork and repoint in a colour that matches the rest of the façade.'],
+    ],
+  },
+  {
+    slug: 'plumbing',
+    name: 'Plumbing & underfloor heating',
+    short: 'plumbing job',
+    card: 'Water supply, drainage, central heating and underfloor heating, neatly concealed and leak-free.',
+    title: 'Plumber & underfloor heating in Rotterdam | Ideal House',
+    desc: 'Plumber in Rotterdam for water supply, drainage, central heating, radiators and underfloor heating. Installed to standard and pressure-tested. Free quote.',
+    h1: 'Plumbing & underfloor heating in Rotterdam',
+    intro: 'From replacing an old sewer pipe in the crawl space to installing underfloor heating in the living room: we install pipework to current standards and pressure-test everything before it is closed up.',
+    includes: [
+      'Replacing or extending water pipes in multilayer and copper',
+      'Drainage and waste pipes, including in the crawl space',
+      'Underfloor heating, milled in or in a new screed',
+      'Central heating, radiators and manifolds',
+      'Finding and fixing leaks',
+      'Connecting sanitary ware, kitchen and washing machine',
+    ],
+    steps: [
+      ['Inventory', 'We map the existing installation and plan the route.'],
+      ['Installation', 'Pipes are fitted at the right spacing and with the correct fall.'],
+      ['Pressure test', 'The installation is pressure-tested before anything is closed up.'],
+      ['Connection', 'Sanitary ware and appliances are connected and put into operation.'],
+    ],
+    about: [
+      'Once a wall or floor is closed, you never see the pipework again. That is exactly why it has to be right first time. We fit pipes with the correct fall and fixings, and pressure-test the installation before anything is concealed, so you know everything is leak-free.',
+      'Underfloor heating is comfortable and efficient, especially combined with a heat pump. In an existing screed we can often mill the pipes in without raising the floor. In a renovation or extension we lay the pipes in the new screed.',
+    ],
+    faqs: [
+      ['Can underfloor heating go into my existing floor?', 'Often, yes. In a cement screed of sufficient thickness we mill grooves and lay the pipes in them without raising the floor. We assess whether your floor is suitable during the survey.'],
+      ['Do you also fix leaks?', 'Yes. We trace the cause of a leak and fix it, whether it is a pipe, a drain or a poor connection at the sanitary ware.'],
+      ['My house still has old pipes. Do they need replacing?', 'Older homes sometimes still have lead or outdated pipes. We recommend replacing them with multilayer or copper, especially if you are renovating anyway. We assess the situation and give honest advice.'],
+    ],
+  },
+  {
+    slug: 'electrical-and-kitchens',
+    name: 'Electrical work & kitchen fitting',
+    short: 'electrical or kitchen job',
+    card: 'Fuse box, wiring and lighting, plus your kitchen expertly fitted.',
+    title: 'Electrician & kitchen fitting in Rotterdam | Ideal House',
+    desc: 'Electrician in Rotterdam: new fuse box, rewiring, spotlights and LED lighting to NEN 1010. Also complete kitchen fitting including connecting all appliances.',
+    h1: 'Electrical work & kitchen fitting in Rotterdam, safe and neatly finished',
+    intro: 'We carry out electrical work in line with NEN 1010, the Dutch standard. Whether it is a few extra circuits, rewiring the whole house or fitting and connecting a kitchen: it is done safely and neatly concealed.',
+    includes: [
+      'Replacing or extending the fuse box',
+      'Complete rewiring of the house',
+      'Sockets, switches and data points',
+      'Recessed spotlights, LED lighting and dimmers',
+      'Kitchen fitting including worktop and appliances',
+      'Connecting hob, oven, extractor and dishwasher',
+    ],
+    steps: [
+      ['Plan', 'Together we decide where you want sockets, switches and lighting.'],
+      ['Chasing', 'Cables go into the wall, so nothing remains visible.'],
+      ['Wiring', 'Pulling the cables and connecting them to the fuse box.'],
+      ['Testing', 'Every circuit is measured and tested before use.'],
+    ],
+    about: [
+      'A modern home asks more of its electrical installation than it used to: an induction hob, a heat pump, an EV charger or solar panels. With a well-arranged fuse box and enough residual-current protection, your home is ready for it. We advise on what you need, and what you don\'t.',
+      'We fit new kitchens completely: levelling the units, worktop made to measure, building in appliances and connecting everything to water, waste and power. Because we do the electrics, plumbing and tiling ourselves, your kitchen can be installed on one continuous schedule.',
+    ],
+    faqs: [
+      ['Does my fuse box need replacing?', 'That is often necessary if you have few circuits or no residual-current devices, or if you want to connect an induction hob or heat pump. We check your current fuse box and advise on what is needed.'],
+      ['Will you fit a kitchen I bought elsewhere?', 'Yes. We fit kitchens from any supplier, including worktop, appliances and the connections to water, waste and electricity.'],
+      ['Do you work to NEN 1010?', 'Yes. All electrical installations are installed according to NEN 1010, and every circuit is measured and tested after installation.'],
+    ],
+  },
+  {
+    slug: 'roofing',
+    name: 'Roofing',
+    short: 'roofing job',
+    card: 'Flat roofs, dormers and watertight details that last for years.',
+    title: 'Roofer in Rotterdam | Flat roofs & dormers | Ideal House',
+    desc: 'Roofer in Rotterdam for flat roofs, bitumen roofing, roof insulation, dormers and roof lights. A leak? We trace it and repair it. Free quote.',
+    h1: 'Roofing in Rotterdam',
+    intro: 'A flat roof is only as good as its detailing. We use two-layer bitumen roofing and pay extra attention to upstands, penetrations and connections, because that is where almost all leaks start.',
+    includes: [
+      'Two-layer bitumen roofing',
+      'Roof insulation to current requirements',
+      'New roof edges, upstands and trims',
+      'Penetrations, rainwater outlets and overflows',
+      'Dormers and roof lights',
+      'Finding and repairing leaks',
+    ],
+    steps: [
+      ['Roof inspection', 'We assess the existing build-up, insulation and falls.'],
+      ['Substrate', 'Where needed we replace the roof deck and add insulation.'],
+      ['Roofing', 'Base layer and top layer are fully torched or bonded.'],
+      ['Details', 'Upstands, penetrations and outlets are finished watertight.'],
+    ],
+    about: [
+      'Replacing a flat roof is the perfect moment to insulate as well. A well-insulated roof makes a noticeable difference to your energy bill and keeps the upper floor cooler in summer. We build the roof up with insulation to current requirements and roofing that stands up to Dutch weather.',
+      'A dormer instantly gives your attic more headroom, light and usable space. We install dormers with a clean finish in uPVC or panel material and connect them watertight to the existing roof.',
+    ],
+    faqs: [
+      ['How long does a bitumen roof last?', 'A well-laid two-layer bitumen roof lasts 20 to 25 years on average with normal maintenance. Keeping outlets clear and checking connections regularly helps.'],
+      ['Is a dormer permit-free?', 'A dormer on the rear roof slope is permit-free under certain conditions. At the front or on a listed building a permit is usually required. We look at this with you during the survey.'],
+      ['My roof is leaking. What should I do?', 'Call or WhatsApp us, ideally with a few photos of the spot. We come and inspect, trace the cause and repair it. The problem is often at an upstand, penetration or outlet.'],
+    ],
+  },
+];
+
+const GENERAL_FAQS = [
+  ['Is a quote really free and without obligation?', 'Yes. We visit, measure up and work out your plan in an itemised quote. There is no charge and you are not committed to anything. We only schedule the work once you agree.'],
+  ['How long does a bathroom renovation take?', 'A complete bathroom takes 10 to 15 working days on average, depending on the size and whether pipes need moving. The quote states a concrete lead time, so you know where you stand.'],
+  ['Do you work with a fixed price or on cost?', 'By default we work with a fixed contract price based on the quote. If something unexpected turns up during the work, such as a rotten floor joist, we discuss it with you first and agree any extra work in writing before we continue.'],
+  ['Can I choose the materials myself?', 'Of course. Many clients choose their own tiles and sanitary ware at a showroom. We are happy to advise on what works in practice and can also supply the complete package.'],
+  ['Do I need a permit for an extension?', 'That depends on the size and position on the plot. Many rear extensions are permit-free. We check this during the survey and, if a permit is needed, we help you with the application.'],
+  ['Which areas do you cover?', 'We work from Rotterdam across the whole region: Schiedam, Vlaardingen, Capelle aan den IJssel, Barendrecht, Ridderkerk, Spijkenisse, Delft, The Hague, Dordrecht and surroundings. Not sure if your address is in our area? Just call or WhatsApp us.'],
+  ['Can I stay in my home during the renovation?', 'In most cases, yes. We cover walkways, work as dust-free as possible and tidy up at the end of every working day. During a bathroom renovation your bathroom is obviously out of use for a while; we plan that with you in advance.'],
+  ['Do I get a guarantee on the work?', 'Yes. Ideal House guarantees the work it carries out; the exact term and conditions are in the quote and our terms and conditions. Manufacturer warranties also apply to materials and appliances.'],
+];
+
+const STEPS = [
+  ['talk', 'Introduction', 'You call or message us about your plan. We ask a few questions and schedule an on-site visit, usually within a week.'],
+  ['ruler', 'Survey and advice', 'We measure up, look at the existing situation and think along with you. Sometimes a different layout turns out to be more practical or cheaper than you expected.'],
+  ['file', 'Tailored quote', 'You receive an itemised quote: what we do and what it costs, per item. No surprises afterwards.'],
+  ['calendar', 'Planning', 'Once agreed, we set the start date and duration. You know exactly when each part of the work takes place.'],
+  ['wrench', 'Execution', 'We keep going until it is finished. At the end of every day we tidy up, so you are not living on a building site.'],
+  ['key', 'Handover', 'We walk through the work together. Anything you notice is fixed before we hand back the keys.'],
+];
+
+const WHY = [
+  ['user', 'One point of contact', 'You deal with one person who oversees the whole project. No middlemen pointing at each other when something goes wrong.'],
+  ['euro', 'Fixed price up front', 'The quote shows what each item costs. We always discuss extra work with you before carrying it out.'],
+  ['eye', 'Eye for detail', 'Tight joints, aligned tiles and neat connections. The difference is in the finish you only notice up close.'],
+  ['calendar', 'Clear planning', 'You know in advance when we start and how long it takes. We keep going until it is done and leave it clean.'],
+];
+
+const CATS = {
+  aanbouw: 'Extensions',
+  badkamer: 'Bathrooms & toilets',
+  dakwerk: 'Roofing & dormers',
+  afbouw: 'Finishing',
+  uitvoering: 'Under construction',
+};
+
+module.exports = { SERVICES, GENERAL_FAQS, STEPS, WHY, CATS };

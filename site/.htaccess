@@ -1,0 +1,27 @@
+# Apache fallback (if not hosted on Vercel)
+Options -Indexes -MultiViews
+DirectorySlash Off
+ErrorDocument 404 /404.html
+RewriteEngine On
+# Force https + www
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^ https://www.idealhouse.nl%{REQUEST_URI} [L,R=301]
+# Remove .html and trailing slashes
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+# Serve extensionless URLs from .html files
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)$ $1.html [L]
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript image/svg+xml application/xml text/plain
+</IfModule>
